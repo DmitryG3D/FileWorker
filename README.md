@@ -1,1 +1,1 @@
-This program can make operation(open, create, delete) whith file.
+This program can work with files(open, create, delete).
