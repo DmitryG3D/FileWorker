@@ -4,9 +4,6 @@ using System.IO;
 
 namespace Tut
 {
-    /// <summary>
-    /// Логика взаимодействия для Open.xaml
-    /// </summary>
     public partial class Open : Window
     {
         public Open()
